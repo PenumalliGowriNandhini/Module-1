@@ -3,16 +3,25 @@
 To write a Python program to print the type of user based on the user's choice using if..elif..else statements.
 
 # ALGORITHM
-Start the program.
-Accept a numeric input from the user.
-Check the input:
+1.Start the program.
+
+2.Accept a numeric input from the user.
+
+3.Check the input:
+
 If input is 1, print "Admin".
+
 If input is 2, print "Editor".
+
 If input is 3, print "Guest".
-Otherwise, print "Wrong entry".
-End the program.
+
+4.Otherwise, print "Wrong entry".
+
+5.End the program.
 # PROGRAM
 ```
+# REGNO:-212222060175
+# Name:-Penumalli GowriNandini
 a = int(input())
 if a == 1:
     print('Admin')
