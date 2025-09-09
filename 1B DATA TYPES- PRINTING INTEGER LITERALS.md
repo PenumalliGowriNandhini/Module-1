@@ -14,12 +14,17 @@ To write a Python program to print the following integer literals: 123, 456, 789
 # Reg.No-212222060175
 # Name-Penumalli GowriNandini
 # Write your code here
-a=int(input())
-b=float(input())
-print(a,b)
+num1 = 123
+num2 = 456
+num3 = 789
+
+print(num1, num2, num3)
+
 
 ```
 ## OUTPUT
-<img width="1170" height="310" alt="image" src="https://github.com/user-attachments/assets/82b81868-ed9a-4db2-86ed-30a9e45cef0a" />
+<img width="622" height="293" alt="image" src="https://github.com/user-attachments/assets/53d9efc8-9fdd-4ad4-938f-83097923d030" />
+
+
 ## RESULT
 The program successfully prints the integer and float literals 10,3.14.
