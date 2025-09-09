@@ -16,8 +16,6 @@ To write a Python program for adding two complex numbers, and get the user input
 # Reg.No-212222060175
 #Name-Penumalli GowriNandini
 #Write your code here
-
-```
 a = 13
 b = 33
 # a > b is False
