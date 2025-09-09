@@ -16,24 +16,17 @@ To write a Python program for adding two complex numbers, and get the user input
 # Reg.No-212222060175
 #Name-Penumalli GowriNandini
 #Write your code here
-a = 13
-b = 33
-# a > b is False
-print(a > b)
-# a < b is True
-print(a < b)
-# a == b is False
-print(a == b)
-# a != b is True
-print(a != b)
-# a >= b is False
-print(a >= b)
-# a <= b is True
-print(a <= b)
+
+a = eval()
+b = eval()
+print(f"A is {a}")
+print(f"B is {b}")
+print(f"Sum is {a+b}")
+
 ```
 
 ## OUTPUT
-<img width="1196" height="353" alt="image" src="https://github.com/user-attachments/assets/00860cf0-ad13-462c-8b10-121f1e682aa7" />
+<img width="754" height="347" alt="image" src="https://github.com/user-attachments/assets/afb78b4f-8d1b-49f2-b9ad-8deb4d9defb8" />
 
-## RESULT
+# Result
 Thus the python program for  adding two complex numbers has been implemented and executed successfully.
