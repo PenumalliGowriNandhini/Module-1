@@ -23,5 +23,6 @@ else:
     print('Wrong entry')
 # OUTPUT
 <img width="437" height="235" alt="image" src="https://github.com/user-attachments/assets/a82db6ec-6717-4204-a789-b30d09b4075a" />
+
 # RESULT
 Thus, the Python program for Printing User Type Based on Choice has been Implemented and executed successfully.
